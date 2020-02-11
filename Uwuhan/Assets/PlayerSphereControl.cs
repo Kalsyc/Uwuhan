@@ -4,17 +4,22 @@ using UnityEngine;
 
 public class PlayerSphereControl : MonoBehaviour
 {
+    public GameObject logic;
     public float speed;
     public float boost;
     public float jumpHeight;
     private float defaultYpos;
     private Vector3 movement;
     private Rigidbody rb;
+    private float defaultSpeed;
+    private float defaultBoost;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         defaultYpos = rb.position.y;
+        defaultSpeed = speed;
+        defaultBoost = boost;
     }
 
     void Update () {
@@ -42,6 +47,17 @@ public class PlayerSphereControl : MonoBehaviour
         if (other.gameObject.CompareTag("Pickup"))
         {
             other.gameObject.SetActive(false);
+            GameLogic.IncrementPills();
+        }
+        else if (other.gameObject.CompareTag("Boost"))
+        {
+            this.speed = 10.0f;
+            this.boost = 20.0f;
+        }
+        else if (other.gameObject.CompareTag("Portal"))
+        {
+            this.speed = defaultSpeed;
+            this.boost = defaultBoost;
         }
     }
 }
