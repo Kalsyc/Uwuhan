@@ -7,6 +7,8 @@ TagManager:
   - Pickup
   - Boost
   - Portal
+  - Cure
+  - Enemy
   layers:
   - Default
   - TransparentFX

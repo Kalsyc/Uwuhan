@@ -12,7 +12,14 @@ public class TextChangerScript : MonoBehaviour
         pillText = GetComponent<Text>();
     }
 
+    
+
     public static void UpdateText() {
-        pillText.text = "Number of Pills Collected: " + GameLogic.numPills + " pills";
+        if (GameLogic.gotCure)
+        {
+            pillText.text = "RUN NOW AND FIND THE PORTAL TO ESCAPE!";
+            return;
+        }
+        pillText.text = "Number of Pills Collected: " + GameLogic.numPills + " / 6 pills";
     }
 }
