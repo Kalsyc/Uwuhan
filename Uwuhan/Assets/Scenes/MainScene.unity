@@ -124,6 +124,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan17
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -502,7 +507,7 @@ GameObject:
   - component: {fileID: 65244325}
   m_Layer: 0
   m_Name: uWuhan3
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
   m_StaticEditorFlags: 0
@@ -756,6 +761,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan12
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -849,6 +859,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -1042,6 +1057,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -1243,6 +1263,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan19
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1368,6 +1393,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -1805,6 +1835,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SuperuWuhan3
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2081,6 +2116,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan14
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2277,6 +2317,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -3510,6 +3555,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan1
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3682,6 +3732,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -3997,6 +4052,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SuperuWuhan1
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4127,6 +4187,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan18
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4220,6 +4285,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -4315,6 +4385,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan4
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4408,6 +4483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -4794,6 +4874,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -5272,6 +5357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SuperuWuhan2
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5365,6 +5455,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -5523,6 +5618,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SuperuWuhan8
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5616,6 +5716,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -5802,6 +5907,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan9
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5931,6 +6041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -6112,6 +6227,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -6728,6 +6848,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -7772,6 +7897,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan7
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7878,6 +8008,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan11
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7977,6 +8112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperuWuhan9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -8231,6 +8371,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SickuWuhan5
       objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8324,7 +8469,7 @@ GameObject:
   - component: {fileID: 1886716013}
   m_Layer: 0
   m_Name: SickuWuhan
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8579,6 +8724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SickuWuhan6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1614979955930718164, guid: fe86c12ca48b073409856db5072238d3,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 1614979955930718165, guid: fe86c12ca48b073409856db5072238d3,
         type: 3}
@@ -8875,7 +9025,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   logic: {fileID: 608699296}
   speed: 1
-  boost: 16
+  boost: 8
   jumpHeight: 450
 --- !u!54 &2013664558
 Rigidbody:

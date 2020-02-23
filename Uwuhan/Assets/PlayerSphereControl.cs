@@ -56,8 +56,8 @@ public class PlayerSphereControl : MonoBehaviour
         }
         else if (other.gameObject.CompareTag("Boost"))
         {
-            this.speed = 10.0f;
-            this.boost = 20.0f;
+            this.speed = 8.0f;
+            this.boost = 16.0f;
             other.gameObject.SetActive(false);
             RenderSettings.fogDensity = 0.05f;
         }
@@ -65,6 +65,7 @@ public class PlayerSphereControl : MonoBehaviour
         {
             this.speed = defaultSpeed;
             this.boost = defaultBoost;
+            RenderSettings.fogDensity = 0.008f;
             if (GameLogic.IsWin())
             {
             GameLogic.ShowWin();
